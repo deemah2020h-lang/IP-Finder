@@ -19,7 +19,7 @@ This project takes the IP address as input and returns basic information such as
 - JSON Parsing (e.g., org.json or Gson)
 
 ## 📸 Screenshots
-(home.png)
+![Home](/home.png)
 
 ## 🚀 How It Works
 1. The user enters the IP address in the console.
